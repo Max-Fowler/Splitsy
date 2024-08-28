@@ -1,7 +1,7 @@
 Split up costs, 
 add a description, 
-add party members and 
-add expense to table
+add or remove party members 
+and add expenses to table
 
 
 splitsy time
